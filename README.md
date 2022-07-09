@@ -12,7 +12,7 @@ The standard Template contains columsn Email, First Name, Surname, Email Body, A
 
 To edit the body of the email, open the `EmailBody.html` file and edit in your preferred HTML editor. In the example Emailbody, the (((First_Name))) is replace by the value as it appears in Column A of the spreadsheet. You can added further replacements like using by editing the VBA code email below.
 
-![offsets](/Assets/images/offsets.jpg)
+![replace](/Assets/images/replace.jpg)
 
 ## Customising the Spreadsheet template
 
