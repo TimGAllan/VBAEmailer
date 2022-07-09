@@ -16,7 +16,7 @@ To edit the body of the email, open the `EmailBody.html` file and edit in your p
 
 ## Customising the Spreadsheet template
 
-Shoudl you wish to add or remove columns, be sure to adjust the variable assignments to compensate fro any changes you make
+Should you wish to add or remove columns, be sure to adjust the variable assignments to compensate fro any changes you make
 
 ![offsets](/Assets/images/offsets.jpg)
 
