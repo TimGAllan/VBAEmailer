@@ -2,6 +2,10 @@
 
 An VBA Solution which allows you to send out emails en masse from a spreadsheet directly in Excel via Outlook. Emails can be customised by individual and can contain attachments.
 
+Click below to watch the walkthrough video:
+
+[<img src="/Assets/Images/Thumbnail.jpg">](https://www.youtube.com/watch?v=Y0EIc0FZEYw)
+
 ## The Spreadsheet Template
 
 ![Spreadsheet](/Assets/images/Spreadsheet.jpg)
