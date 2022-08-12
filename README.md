@@ -4,7 +4,7 @@ An VBA Solution which allows you to send out emails en masse from a spreadsheet 
 
 Click below to watch the walkthrough video:
 
-[<img src="/Assets/Images/Thumbnail.jpg">](https://www.youtube.com/watch?v=Y0EIc0FZEYw)
+[<img src="/Assets/images/Thumbnail.jpg">](https://www.youtube.com/watch?v=Y0EIc0FZEYw)
 
 ## The Spreadsheet Template
 
